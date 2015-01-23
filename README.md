@@ -39,8 +39,6 @@ When you run the application:
 To Install Mosquitto:
 
     $sudo apt-get install mosquitto
+    $sudo apt-get install libmosquitto0
 
-  
-
-  
-
+    
