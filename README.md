@@ -6,7 +6,7 @@ Purpose of the Smart Module (aka MakeItSmart) is to provide a basic method to ge
 
 Prerequirements
 
-The module requires Mosquitto installed in the platform. GStreamer is a library for constructing graphs of media-handling components. Mosquitto is an open source message broker that implements the MQ Telemetry Transport protocol. MQTT provides a lightweight method of carrying out messaging using a publish/subscribe model. This makes it suitable for "machine to machine" messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers.
+The module requires Mosquitto installed in the platform. Mosquitto is an open source message broker that implements the MQ Telemetry Transport protocol. MQTT provides a lightweight method of carrying out messaging using a publish/subscribe model. This makes it suitable for "machine to machine" messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers.
 
 Details:
 
